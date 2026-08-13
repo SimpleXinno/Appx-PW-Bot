@@ -1,0 +1,14 @@
+{
+  "name": "telegram-worker-bot",
+  "description": "Telegram Bot Worker",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
